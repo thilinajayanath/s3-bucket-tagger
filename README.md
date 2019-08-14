@@ -26,6 +26,21 @@ python3 -m venv /path/to/new/virtual/environment
 /path/to/new/virtual/environment/bin/pip install -r requirements.txt
 ```
 
+## Format of the csv file with tags
+Please refer the example.csv file.  
+
+The csv file containing the tags should be in the following format.  
+
+Header of the csv file
+```
+bucket_name,key1,key2,etc..
+```
+
+Values
+```
+<bucket-name>,tag1,tag2
+```
+
 ## Run the application
 
 ```
