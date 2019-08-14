@@ -15,7 +15,7 @@ AWS named profile and credentials should be configured - [Read more](https://doc
 
 * Clone the git repository
 ```
-git clone git@github.com:thilinajayanath/s3-bucke-tagger.git
+git clone git@github.com:thilinajayanath/s3-bucket-tagger.git
 ```
 
 It is recommended to use a Python 3 virtual environment to install the above libraries [Read more](https://docs.python.org/3/library/venv.html)  
